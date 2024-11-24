@@ -5,6 +5,10 @@
 
 ---
 
+![Developer Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Animation d'un développeur en train de coder -->
+
+---
+
 ## 🌟 **À propos de moi** 
 
 - 📊 **Spécialisation** : Business Intelligence (BI) et Développement Front-End.  
