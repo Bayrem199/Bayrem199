@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bayrem199&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Bayrem199?label=Followers&style=flat&color=6f42c1" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Bayrem199&label=Profile%20Views&color=6f42c1&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Bayrem199?label=Followers&style=for-the-badge&color=6f42c1" alt="Followers" />
 </p>
 
-<p align="center">─────────────────  ⚡ ─────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 ### 🚀 About Me
 
@@ -28,7 +28,7 @@
 💬  Ask me about           →  Power BI, SQL, Talend, React
 ```
 
-<p align="center">─────────────────  ⚡ ─────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -48,24 +48,24 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-<p align="center">─────────────────  ⚡ ─────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 ### 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Bayrem199/ProjetIntegre-ChurnAnalysis">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=ProjetIntegre-ChurnAnalysis&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="ChurnPredict AI" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=ProjetIntegre-ChurnAnalysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="ChurnPredict AI" />
   <a href="https://github.com/Bayrem199/credit-card-fraud-detection">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="Fraud Detection" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="Fraud Detection" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Bayrem199/burger-order-management">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=burger-order-management&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="Burger Order Management" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=burger-order-management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="Burger Order Management" />
   </a>
   <a href="https://github.com/Bayrem199/DWH-RH-BI-Project">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=DWH-RH-BI-Project&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="DWH RH BI Project" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Bayrem199&repo=DWH-RH-BI-Project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A371F7&icon_color=A371F7&border_radius=10" alt="DWH RH BI Project" />
   </a>
 </p>
 
@@ -94,34 +94,34 @@
 
 </details>
 
-<p align="center">─────────────────  ⚡ ─────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Bayrem199&show_icons=true&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true&bg_color=00000000&count_private=true&border_radius=10" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Bayrem199&layout=compact&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true&bg_color=00000000&langs_count=8&border_radius=10" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Bayrem199&show_icons=true&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true&bg_color=0d1117&count_private=true&border_radius=10" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Bayrem199&layout=compact&theme=tokyonight&title_color=A371F7&icon_color=A371F7&hide_border=true&bg_color=0d1117&langs_count=8&border_radius=10" alt="top langs" />
 </p>
 
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bayrem199&theme=tokyonight&hide_border=true&background=00000000&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&border_radius=10" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Bayrem199&theme=tokyonight&hide_border=true&background=0d1117&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&border_radius=10" alt="streak stats" />
 </p>
 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bayrem199&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bayrem199&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
 </p>
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bayrem199&theme=tokyo-night&bg_color=00000000&color=A371F7&line=A371F7&point=ffffff&area=true&hide_border=true&area_color=A371F7" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bayrem199&bg_color=0d1117&color=A371F7&line=A371F7&point=ffffff&area=true&hide_border=true&area_color=A371F7&custom_title=Contribution%20Graph" alt="activity graph" />
 </p>
 
-<p align="center">─────────────────  ⚡ ─────────────────</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="100%"/>
 
 ### 💭 Dev Quote
 
